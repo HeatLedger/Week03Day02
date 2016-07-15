@@ -1,0 +1,31 @@
+1.structuru duzgun gurmag
+2.kod tekrarina yol vermemek
+3.elifba sirasina digget yetirmek
+4.resetden istifade etmek
+5.comentlerden istifade etmek
+6.bacardigca eyni classlardan istifade etmek.
+    sual2
+elbette var google doludu)
+yukluyub istifade ederken <head> tagini icinde
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+yazmag shertdir.
+
+   sual3
+
+1.Amydor
+2.American Captain
+3.Ambassadore
+4.Anglecia Pro Display
+5.Antithesis
+6.Antonio
+7)Gotham
+8)Good Vibes
+9)Graved
+10)Gothic
+  fayli yukleyirik sora harda isliyirikse govglug acirig ora tukluyuruk 
+css de ise bucur isleyirik
+@font-face{
+	font-family: 'heci';
+	src: url("fontun  unvani");
+	} 
+html.body{font-family:heci;}
